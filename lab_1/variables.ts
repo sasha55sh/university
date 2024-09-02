@@ -8,7 +8,7 @@ console.log(age);
 console.log(isGirl);
 console.log(num);
 
-let strArray : string[] = ["winter", "spring", "summer", "autumn"];
+let strArray: string[] = ["winter", "spring", "summer", "autumn"];
 let numArray: number[] = [12, 2, 6, 21];
 
 console.log(strArray);
